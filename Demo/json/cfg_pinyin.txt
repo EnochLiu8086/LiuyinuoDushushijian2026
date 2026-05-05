@@ -1,0 +1,23 @@
+{
+    "table_name": "pinyin",
+    "record_format": "jsonl",
+    "content": {
+        "PYId": "PYId",
+        "PinYin": "PinYin",
+        "PinYin_FuHao": "PinYin_FuHao",
+        "DengJi": "DengJi",
+        "DuYin[]": "DuYin[]",
+        "ShiPin": "ShiPin",
+        "TuPian": "TuPian",
+        "Source": "Source"
+    },
+    "index": {
+        "number": [],
+        "kv": [
+            "PinYin",
+            "PinYin_FuHao"
+        ],
+        "affix": [],
+        "bm25": []
+    }
+}
